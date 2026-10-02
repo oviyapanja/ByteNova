@@ -1,0 +1,6 @@
+industry_id,industry_name,date,pH,BOD,COD,TSS,flow_rate,temperature
+IND006,Factory F,2026-09-01,7.2,30,110,45,120,28
+IND006,Factory F,2026-09-02,7.2,31,112,46,121,28
+IND006,Factory F,2026-09-03,7.2,29,108,44,119,28
+IND006,Factory F,2026-09-05,7.2,30,111,45,120,28
+IND006,Factory F,2026-09-06,7.2,31,113,46,121,28
